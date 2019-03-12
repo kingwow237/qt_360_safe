@@ -1,6 +1,1 @@
-*.js linguist-language=QT
-*.css linguist-language=QT
-*.html linguist-language=QT
 *.cpp linguist-language=QT
-*.ui linguist-language=QT
-*.qss linguist-language=QT
