@@ -1,11 +1,11 @@
-*.js linguist-language=qt
+*.js linguist-language=Qt
 
-*.css linguist-language=qt
+*.css linguist-language=Qt
 
-*.html linguist-language=qt
+*.html linguist-language=Qt
 
-*.cpp linguist-language=qt
+*.cpp linguist-language=Qt
 
-*.ui linguist-language=qt
+*.ui linguist-language=Qt
 
-*.qss linguist-language=qt
+*.qss linguist-language=Qt
