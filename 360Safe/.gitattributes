@@ -3,3 +3,9 @@
 *.css linguist-language=java
 
 *.html linguist-language=java
+
+*.cpp linguist-language=java
+
+*.ui linguist-language=java
+
+*.qss linguist-language=java
